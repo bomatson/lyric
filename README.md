@@ -3,7 +3,7 @@ Lyric
 
 Most of the lyric searching companies are pretty lame
 
-![Dumb site](https://www.dropbox.com/s/colk002n94zz0mf/Screenshot%202014-07-09%2014.05.57.png)
+![Dumb site](http://ssl.gstatic.com/android/market/com.tfsapps.lyricsfinder/f-1024-0)
 
 Seriously, is this 2003?
 
